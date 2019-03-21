@@ -1,0 +1,6 @@
+Hellow world welcome to pytho programming
+today i am going to teach you about python progrma
+lets starts our sessions
+what basicllay python is going to become so popular
+because as we know today world is moving towars the letest technoglogy such as artificial intelligence, machine learning and deep learning, also other technology like data science, data analytic etc.
+python provides various libraries to implement such technologies like very easily by making the effficient and small code length

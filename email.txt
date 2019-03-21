@@ -1,0 +1,21 @@
+The below are the list of all student of cs3 students:
+name : subash 
+email : smartysubash11@gmail.com
+name : roshan 
+email : roshan@gmail.com
+name : rambilash 
+email : rambilash@gmail.com
+name : sanju 
+email : sanju@gmail.com
+name : sachin 
+email : sachin@gmail.com
+name : suraj 
+email : suraj@gmail.com
+name : sidrameshwar 
+email : sid@gmail.com
+name : rohan 
+email : rohan@gmail.com
+name : likhit 
+email : likhit@gmail.com
+name : amog 
+email : amog@gmail.com
